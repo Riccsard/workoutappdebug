@@ -6,7 +6,7 @@ body {
 }
 
 .main {
-    background-color: #ECF0F1;
+    background-color: #fff;
     position: absolute;
     top: 3.5%; 
     bottom: 3.5%;
@@ -20,7 +20,6 @@ body {
     color: #7F8C8D;
     text-align: center;
     font-size: 15px;
-    font-weight: lighter;
     padding: 1%;
 }
 
